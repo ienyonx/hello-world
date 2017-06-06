@@ -1,2 +1,3 @@
 # hello-world
-guide
+
+hi motherfucker .. i dont know what I am doing right fucking now
